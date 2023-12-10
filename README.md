@@ -2,6 +2,8 @@
 
 Szerver cím: diamond-free.falixserver.net:40634
 
+Ajánlott Fabric verzió: 0.14.25
+
 Modokat a Modrinth oldalról töltöttem le, szervert pedig a [Falixnodes.net](https://falixnodes.net/) üzemelteti.
 
 Modokat így töltheted le:
