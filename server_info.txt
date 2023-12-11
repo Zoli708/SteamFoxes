@@ -1,4 +1,4 @@
-1.20.1 - Fabric, Survival.
+1.20.1 - Fabric, Survival
 IP: diamond-free.falixserver.net:40634
 Timer: https://client.falixnodes.net/timer?id=1171638 
 
