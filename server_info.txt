@@ -2,4 +2,4 @@
 IP: diamond-free.falixserver.net:40634
 Timer: https://client.falixnodes.net/timer?id=1171638 
 
-Eredeti módosítások itt érheted el: https://modrinth.com/mods
+Eredeti módosításokat itt érheted el: https://modrinth.com/mods
