@@ -1,5 +1,5 @@
 # 🕹 Minecraft Fabric Szerver Mods 1.20.1 🕹
-➡️ Szerverhez való csatlakozáskor elegendő a [mods] mappa tartalmát kicsomagolni a megfelelő helyre, a többi nem kötelező!
+➡️ Szerverhez való csatlakozáshoz a mods mappa szükséges!
 
 ➡️ Szerver cím: diamond-free.falixserver.net:40634
 
