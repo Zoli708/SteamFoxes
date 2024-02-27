@@ -1,9 +1,9 @@
-# 🕹 Minecraft Fabric Szerver Mods 1.20.1 🕹
+# 🦊 SteamFoxes - Normal survival - Fabric, 1.20.1 🦊
 ➡️ Szerverhez való csatlakozáshoz a mods mappa szükséges!
 
-➡️ Szerver cím: steamcraft.falixsrv.me vagy 88.209.197.230:36800
+➡️ Szerver cím: prem2.falixserver.net:38016
 
-➡️ Ajánlott Fabric verzió: 0.15.3
+➡️ Ajánlott Fabric verzió: 0.15.7
 
 📌 Modokat így töltheted le:
 
@@ -16,10 +16,8 @@
 
 ➡️ [Szerver indítása](https://client.falixnodes.net/startserver)
 
-➡️ [Szerver idő hosszabítása](https://client.falixnodes.net/timer?id=1171638)
-
 ➡️ [Fabric letöltése](https://fabricmc.net/)
 
 ➡️ [Modrinth](https://modrinth.com/)
 
-➡️ [Create vasúti hálózatok](http://46.4.24.123:23231/)
+➡️ [Create vasúti hálozatok](http://46.4.34.184:22519/)
