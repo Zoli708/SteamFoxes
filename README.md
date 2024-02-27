@@ -20,4 +20,4 @@
 
 ➡️ [Modrinth](https://modrinth.com/)
 
-➡️ [Create vasúti hálózatok](prem2.falixserver.net:22519)
+➡️ [Create vasúti hálozatok](prem2.falixserver.net:22519)
