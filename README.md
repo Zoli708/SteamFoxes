@@ -1,4 +1,4 @@
-# 🕹 Minecraft Fabric Szerver Mods 1.20.1 🕹
+# 🦊 SteamFoxes - Normal survival server - Fabric, 1.20.1 🦊
 ➡️ Szerverhez való csatlakozáshoz a mods mappa szükséges!
 
 ➡️ Szerver cím: prem2.falixserver.net:38016
