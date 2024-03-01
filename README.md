@@ -35,6 +35,7 @@
   + [Diesel Generators](https://modrinth.com/mod/create-diesel-generators-fabric)
   + [Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry-fabric)
   + [Track Map](https://modrinth.com/mod/create-track-map)
+  + [Jetpack](https://modrinth.com/mod/create-jetpack)
 
 ➡️ [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
 
