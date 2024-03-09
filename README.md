@@ -1,5 +1,5 @@
 # 🦊 SteamFoxes - Normal survival - Fabric, 1.20.1 🦊
-➡️ Szerverhez való csatlakozáshoz a mods mappa szükséges!
+➡️ Szerverhez való csatlakozáshoz töltsd le a csomagot majd csak annyit kell tenned hogy a Minecraft mappájába a megfelelő helyre be kell húznod a mappákat!
 
 ➡️ Szerver cím: prem2.falixserver.net:38016
 
