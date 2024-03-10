@@ -5,9 +5,7 @@
 
 ➡️ Ajánlott Fabric verzió: 0.15.7
 
-📌 Modokat így töltheted le:
-
-![pack_letoltese](https://github.com/Zoli708/Minecraft-Fabric-Szerver-Mods-1.20.1/assets/132081226/ffc83a40-0b29-41f1-9981-5fe26b629a5a)
+📌 Modokat így töltheted le és telepítheted a beállításokkal együtt: [YouTube](https://youtu.be/rfBhEzhbukE)
 
 *Modokat a Modrinth oldalról töltöttem le, szervert pedig a [Falixnodes.net](https://falixnodes.net/) üzemelteti.
 
