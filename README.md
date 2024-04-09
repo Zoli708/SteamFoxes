@@ -5,7 +5,7 @@
 
 ➡️ Ajánlott Fabric verzió: 0.15.7
 
-📌 Modokat így töltheted le és telepítheted a beállításokkal együtt: [YouTube](https://youtu.be/rfBhEzhbukE)
+📌 Modokat így töltheted le és telepítheted a beállításokkal együtt: [YouTube](https://youtu.be/qB_AKt47wpQ)
 
 *Modokat a Modrinth oldalról töltöttem le, szervert pedig a [Falixnodes.net](https://falixnodes.net/) üzemelteti.
 
