@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","create:legacy_copper","railways:legacy_semaphore","railways:green_signals","vinery:bushy_leaves","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/Icon Xaero\u0027s 1.14 1.20-1.20.1.zip","file/CTM OF-Fabric 0.5.3+1.20.x.zip","continuity:glass_pane_culling_fix","continuity:default","file/Redstone Tweaks 2.3.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","create:legacy_copper","railways:legacy_semaphore","railways:green_signals","vinery:bushy_leaves","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/Icon Xaero\u0027s 1.14 1.20-1.20.1.zip","file/CTM OF-Fabric 0.5.3+1.20.x.zip","continuity:glass_pane_culling_fix","continuity:default","file/Redstone Tweaks 2.3.zip","file/Fast Better Grass.zip","Moonlight Mods Dynamic Assets","file/VisibleOres2.10.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:hu_hu
@@ -144,6 +144,7 @@ key_gui.xaero_pac_key_open_menu:key.keyboard.backspace
 key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.unknown
+key_key.plasmovoice.settings:key.keyboard.o
 key_key.smallships.ship_sail:key.keyboard.comma
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.toggle_tank:key.keyboard.unknown
@@ -195,7 +196,7 @@ key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.c
 soundCategory_master:1.0
-soundCategory_music:0.5
+soundCategory_music:0.5070422535211268
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
