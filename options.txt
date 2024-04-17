@@ -6,7 +6,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","create:legacy_copper","railways:legacy_semaphore","railways:green_signals","vinery:bushy_leaves","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/Icon Xaero\u0027s 1.14 1.20-1.20.1.zip","file/CTM OF-Fabric 0.5.3+1.20.x.zip","continuity:glass_pane_culling_fix","continuity:default","file/Redstone Tweaks 2.3.zip","file/Fast Better Grass.zip","Moonlight Mods Dynamic Assets","file/VisibleOres2.10.zip"]
+resourcePacks:["vanilla","fabric","create:legacy_copper","railways:legacy_semaphore","railways:green_signals","vinery:bushy_leaves","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/Icon Xaero\u0027s 1.14 1.20-1.20.1.zip","file/Redstone Tweaks 2.3.zip","Moonlight Mods Dynamic Assets","file/VisibleOres2.10.zip","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:hu_hu
@@ -179,6 +179,9 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown
 key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
 key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
